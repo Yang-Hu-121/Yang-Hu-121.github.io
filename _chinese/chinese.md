@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /chinese/
+permalink: /_chinese/
 author_profile: true
 ---
 
