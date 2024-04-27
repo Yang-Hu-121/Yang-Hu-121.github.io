@@ -1,6 +1,6 @@
 ---
 permalink: /chinese/
-title: "简介"
+title: "chinese"
 author_profile: true
 redirect_from: 
   - /chinese/
