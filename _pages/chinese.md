@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Bio"
+title: "chinese"
 author_profile: true
 redirect_from: 
-  - /about/
+  - /chinese/
   - /about.html
 ---
 
