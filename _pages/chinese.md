@@ -9,17 +9,17 @@ redirect_from:
 
 I am currently an associate research scientist at the Institute of Heavy Rain, China Meteorological Administration, Wuhan. My work has been focused on understanding the formation mechanisms of extreme precipitation as well as its prediction and projection.
 
-Research Interests
+研究兴趣
 ======
 * Extreme Precipitation
 * Mei-yu Fronts; Frontal-cyclones
 * Climate Dynamics
 
-Work Experience
+工作经历
 ======
-- 2015-present: Associate Research Scientist, Institute of Heavy Rain, China Meteorological Administration, Wuhan
-- 2019-2020: Visiting Scholar, Georgia Institute of Technology
-- 2022-2023: Senior Visiting Scholar, Earth System Modeling and Prediction Centre, China Meteorological Administration
+- 2015至今: 中国气象局武汉暴雨研究所，助理工程师/工程师/副研究员
+- 2019-2020: Georgia Institute of Technology，访问学者
+- 2022-2023: 中国气象局地球系统数值预报中心，高级访问学者
 
 学习经历
 ======
