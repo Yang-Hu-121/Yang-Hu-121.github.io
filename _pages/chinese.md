@@ -11,9 +11,9 @@ I am currently an associate research scientist at the Institute of Heavy Rain, C
 
 研究兴趣
 ======
-* Extreme Precipitation
-* Mei-yu Fronts; Frontal-cyclones
-* Climate Dynamics
+* 极端降水
+* 梅雨锋; 锋面—气旋 
+* 气候动力
 
 工作经历
 ======
