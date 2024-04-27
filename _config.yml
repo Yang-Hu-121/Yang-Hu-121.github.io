@@ -12,7 +12,7 @@ title                    : "Dr. Yang Hu"
 title_separator          : "-"
 name                     : &name "Dr. Yang Hu"
 description              : &description "personal website"
-url                      : https://https://yang-hu-121.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yang-hu-121.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Yang-Hu-121/Yang-Hu-121.github.io"
 
