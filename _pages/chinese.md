@@ -15,7 +15,7 @@ I am currently an associate research scientist at the Institute of Heavy Rain, C
 工作经历
 ======
 - 2015至今: 中国气象局武汉暴雨研究所，助理工程师/工程师/副研究员
-- 2019-2020: Georgia Institute of Technology，访问学者
+- 2019-2020: 佐治亚理工学院地球与大气科学系，访问学者
 - 2022-2023: 中国气象局地球系统数值预报中心，高级访问学者
 
 教育经历
