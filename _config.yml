@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dr. Yang Hu"
+title                    : "Yang Hu (胡 扬)"
 title_separator          : "-"
 name                     : &name "Dr. Yang Hu"
 description              : &description "personal website"
@@ -22,9 +22,9 @@ repository               : "Yang-Hu-121/Yang-Hu-121.github.io"
 author:
   # Biographic information
   avatar           : "a.png"
-  name             : "Yang Hu"
+  name             : "Dr. Yang Hu"
   pronouns         : # example: "she/her"  
-  bio              : "胡扬"
+  bio              : " "
   location         : "Wuhan, China"
   employer         : "Institute of Heavy Rain"
   uri              : # URL
