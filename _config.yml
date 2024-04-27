@@ -24,9 +24,9 @@ author:
   avatar           : "a.png"
   name             : "Dr. Yang Hu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : " "
   location         : "Wuhan, China"
-  employer         : "IHR"
+  employer         : "Institute of Heavy Rain"
   uri              : # URL
   email            : "none@example.org" 
 
