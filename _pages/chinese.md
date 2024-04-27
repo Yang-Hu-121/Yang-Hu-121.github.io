@@ -1,5 +1,5 @@
 ---
-permalink: /chinese
+permalink: /chinese/
 title: "简介"
 author_profile: true
 ---
