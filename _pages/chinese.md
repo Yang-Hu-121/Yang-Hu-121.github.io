@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "chinese"
+title: "简介"
 author_profile: true
 ---
 
