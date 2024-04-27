@@ -19,12 +19,13 @@ Work Experience
 ======
 - 2015-present: Institute of Heavy Rain, China Meteorological Administration, Wuhan, Associate Research Scientist
 - 2019-2020: Georgia Institute of Technology, Visiting Scholar
+- 2022-2023: Earth System Modeling and Prediction Centre, China Meteorological Administration, Senior Visiting Scholar
 
 Education
 ======
-- 2020-2024: Tsinghua University, Atmospheric Science, PhD
+- 2020-2024: Tsinghua University, Atmospheric Sciences, PhD
 - 2012-2015: Beijing Normal University, Global Environmental Change, MS
-- 2008-2012: Nanjing University of Information Science and Technology, Atmospheric Science, BS
+- 2008-2012: Nanjing University of Information Science and Technology, Atmospheric Sciences, BS
 
 Publications
 ======
