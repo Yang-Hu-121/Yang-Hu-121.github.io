@@ -19,7 +19,7 @@ main:
     url: /cv/
 
   - title: "中文"
-    url: /_chinese/
+    url: /chinese/
     
   #- title: "Guide"
   #  url: /markdown/
