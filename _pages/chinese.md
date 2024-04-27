@@ -27,7 +27,7 @@ I am currently an associate research scientist at the Institute of Heavy Rain, C
 - 2012-2015: 北京师范大学，减灾与应急管理研究院，全球环境变化，硕士
 - 2008-2012: 南京信息工程大学，大气科学学院，大气科学，学士
 
-发表论文
+学术论文
 ======
 - **Hu Y.,** Y. Lin, Y. Deng, J. Bao, Summer extreme rainfall over the middle and lower reaches of Yangtze River: Role of synoptic patterns in historical changes and future projections. *Journal of Geophysical Research: Atmospheres*, 2023, 128(24), https://doi.org/10.1029/2023JD039608
 - **Hu Y.,** Y. Deng, Y. Lin, Z. Zhou, C. Cui, C. Li, X. Dong, Indirect effect of diabatic heating on Mei-yu frontogenesis. *Climate Dynamics*. 2022, 59, 851-868. https://doi.org/10.1007/s00382-022-06159-7
