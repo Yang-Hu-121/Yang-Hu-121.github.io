@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /
 title: "简介"
 author_profile: true
