@@ -5,6 +5,7 @@ title: "简介"
 author_profile: true
 redirect_from: 
   - /chinese/
+  - /chinese.html
 ---
 
 I am currently an associate research scientist at the Institute of Heavy Rain, China Meteorological Administration, Wuhan. My work has been focused on understanding the formation mechanisms of extreme precipitation as well as its prediction and projection.
