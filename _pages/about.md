@@ -40,3 +40,5 @@ Publications
 -	Liu L., Cui C., Y. Deng, Z. Zhou, **Y. Hu** et al. Localization and Invigoration of Mei‐yu Front Rainfall due to Aerosol‐Cloud Interactions: A Preliminary Assessment Based on WRF Simulations and IMFRE 2018 Field Observations. *Journal of Geophysical Research: Atmospheres*, 2020, 125(13), e2019JD031952, https://doi.org/10.1029/2019JD031952
 -	Li S., X. Wang, J. Sun, Z. Ma, Y. Zhang, Y. Gao, **Y. Hu**, W. Zhang, Statistical Characteristics and Synoptic Patterns of Convection Initiation over the Middle Reaches of the Yangtze River Basin as Observed Using the Fengyun-4A Satellite. *Journal of Hydrometeorology*, 2024, 25(3), 445-463. https://doi.org/10.1175/JHM-D-23-0157.1
 -	Li C., Y. Li, S. Fu, X. Jiang, X. Wang, S. Li, C. Cui, **Y. Hu**, W. Cui, A New Perspective on the Orographic Effect of the Windward Slope on the Multi-Scale Eastward-Moving Southwest Vortex systems, *Atmospheric Research*, 2022, 279, 106365, https://doi.org/10.1016/j.atmosres.2022.106365
+
+<div class="wordwrap">More articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
