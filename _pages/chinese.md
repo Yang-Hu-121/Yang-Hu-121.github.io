@@ -21,13 +21,13 @@ Work Experience
 - 2019-2020: Visiting Scholar, Georgia Institute of Technology
 - 2022-2023: Senior Visiting Scholar, Earth System Modeling and Prediction Centre, China Meteorological Administration
 
-Education
+学习经历
 ======
-- 2020-2024: Ph.D., Atmospheric Sciences, Tsinghua University 
-- 2012-2015: M.S., Global Environmental Change, Beijing Normal University
-- 2008-2012: B.S., Atmospheric Sciences, Nanjing University of Information Science and Technology
+- 2020-2024: 清华大学，地球系统科学系，大气科学，博士 
+- 2012-2015: 北京师范大学，减灾与应急管理研究院，全球环境变化，硕士
+- 2008-2012: 南京信息工程大学，大气科学学院，大气科学，学士
 
-Publications
+发表论文
 ======
 - **Hu Y.,** Y. Lin, Y. Deng, J. Bao, Summer extreme rainfall over the middle and lower reaches of Yangtze River: Role of synoptic patterns in historical changes and future projections. *Journal of Geophysical Research: Atmospheres*, 2023, 128(24), https://doi.org/10.1029/2023JD039608
 - **Hu Y.,** Y. Deng, Y. Lin, Z. Zhou, C. Cui, C. Li, X. Dong, Indirect effect of diabatic heating on Mei-yu frontogenesis. *Climate Dynamics*. 2022, 59, 851-868. https://doi.org/10.1007/s00382-022-06159-7
