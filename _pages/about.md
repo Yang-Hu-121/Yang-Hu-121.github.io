@@ -23,9 +23,9 @@ Work Experience
 
 Education
 ======
-- 2020-2024: Tsinghua University, Atmospheric Sciences, PhD
-- 2012-2015: Beijing Normal University, Global Environmental Change, MS
-- 2008-2012: Nanjing University of Information Science and Technology, Atmospheric Sciences, BS
+- 2020-2024: Tsinghua University, Atmospheric Sciences, Ph.D.
+- 2012-2015: Beijing Normal University, Global Environmental Change, M.S.
+- 2008-2012: Nanjing University of Information Science and Technology, Atmospheric Sciences, B.S.
 
 Publications
 ======
