@@ -25,7 +25,3 @@ Education
 * 2020-2024, Tsinghua University, Atmospheric Science, PhD
 * 2012-2015, Beijing Normal University, Global Environmental Change, MS
 * 2008-2012, Nanjing University of Information Science and Technology, Atmospheric Science, BS
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
