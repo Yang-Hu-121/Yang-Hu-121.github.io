@@ -15,7 +15,7 @@ Research Interests
 * Mei-yu Fronts; Frontal-cyclones
 * Climate Dynamics
 
-Work Experience
+Professional Experience
 ======
 - 2015-present: Associate Research Scientist, Institute of Heavy Rain, China Meteorological Administration, Wuhan
 - 2019-2020: Visiting Scholar, Georgia Institute of Technology
