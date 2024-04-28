@@ -27,7 +27,6 @@ Education
 - 2012-2015: M.S., Global Environmental Change, Beijing Normal University
 - 2008-2012: B.S., Atmospheric Sciences, Nanjing University of Information Science and Technology
 
-Publications
 <h2 id="publications"> Publications</h2>
 ======
 - **Hu Y.,** Y. Lin, Y. Deng, J. Bao, Summer extreme rainfall over the middle and lower reaches of Yangtze River: Role of synoptic patterns in historical changes and future projections. *Journal of Geophysical Research: Atmospheres*, 2023, 128(24), https://doi.org/10.1029/2023JD039608
