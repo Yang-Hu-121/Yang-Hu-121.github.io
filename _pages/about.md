@@ -44,5 +44,5 @@ Education
 This page only shows selected publications. The full publication list is available on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>
 
 <h1 id="cv"> CV</h1>
-<a href="{{/file/paper1.pdf}}">CV</a>
+<a href="/file/paper1.pdf">CV</a>
 
