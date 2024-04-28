@@ -28,6 +28,8 @@ Education
 - 2008-2012: B.S., Atmospheric Sciences, Nanjing University of Information Science and Technology
 
 <h1 id="publications"> Publications</h1>
+
+======
 - **Hu Y.,** Y. Lin, Y. Deng, J. Bao, Summer extreme rainfall over the middle and lower reaches of Yangtze River: Role of synoptic patterns in historical changes and future projections. *Journal of Geophysical Research: Atmospheres*, 2023, 128(24), https://doi.org/10.1029/2023JD039608
 - **Hu Y.,** Y. Deng, Y. Lin, Z. Zhou, C. Cui, C. Li, X. Dong, Indirect effect of diabatic heating on Mei-yu frontogenesis. *Climate Dynamics*. 2022, 59, 851-868. https://doi.org/10.1007/s00382-022-06159-7
 - **Hu Y.,** Y. Deng, Y. Lin, Z. Zhou, C. Cui, X. Dong, Dynamics of the spatiotemporal morphology of Mei-yu fronts: an initial survey. *Climate Dynamics*. 2021, 56, 2715-2728. https://doi.org/10.1007/s00382-020-05619-2
