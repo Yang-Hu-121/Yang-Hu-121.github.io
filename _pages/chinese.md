@@ -38,4 +38,4 @@ I am currently an associate research scientist at the Institute of Heavy Rain, C
 -	Li S., X. Wang, J. Sun, Z. Ma, Y. Zhang, Y. Gao, **Y. Hu**, W. Zhang, Statistical Characteristics and Synoptic Patterns of Convection Initiation over the Middle Reaches of the Yangtze River Basin as Observed Using the Fengyun-4A Satellite. *Journal of Hydrometeorology*, 2024, 25(3), 445-463. https://doi.org/10.1175/JHM-D-23-0157.1
 -	Li C., Y. Li, S. Fu, X. Jiang, X. Wang, S. Li, C. Cui, **Y. Hu**, W. Cui, A New Perspective on the Orographic Effect of the Windward Slope on the Multi-Scale Eastward-Moving Southwest Vortex systems, *Atmospheric Research*, 2022, 279, 106365, https://doi.org/10.1016/j.atmosres.2022.106365
 
-This page only shows selected publications. The full publication list is available on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>
+This page only shows selected publications. The full publication list is available on <a href="https://www.researchgate.net/profile/Yang-Hu-128">my ResearchGate</a>
