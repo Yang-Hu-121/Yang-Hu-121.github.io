@@ -17,7 +17,7 @@ Research Interests
 
 Professional Experience
 ======
-- 2015-present: Associate Research Scientist, Institute of Heavy Rain, China Meteorological Administration, Wuhan
+- 2015-Present: Associate Research Scientist, Institute of Heavy Rain, China Meteorological Administration, Wuhan
 - 2019-2020: Visiting Scholar, Georgia Institute of Technology
 - 2022-2023: Senior Visiting Scholar, Earth System Modeling and Prediction Centre, China Meteorological Administration
 
