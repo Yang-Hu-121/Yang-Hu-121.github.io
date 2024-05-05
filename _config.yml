@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : " "
   location         : "Wuhan, China"
-  employer         : "Institute of Heavy Rain"
+  employer         : #"Institute of Heavy Rain"
   uri              : # URL
   email            : "none@example.org" 
 
