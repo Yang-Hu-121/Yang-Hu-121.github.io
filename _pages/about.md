@@ -47,4 +47,4 @@ This page only shows selected publications. The full publication list is availab
 <h1 id="cv"> CV</h1>
 <a href="/files/paper1.pdf">CV</a>
 
-<div align='center'> <a href='https://www.free-website-hit-counter.com' style='text-decoration:none;'> <img src='https://www.free-website-hit-counter.com/c.php?d=9&id=172607&s=18' border='0' alt='Visitors' style='vertical-align:text-bottom;'> <span style='vertical-align:text-bottom;'>Visitors</span> </a> </div>
+<div align='center'> <a href='https://www.free-website-hit-counter.com' style='text-decoration:none;'> <img src='https://www.free-website-hit-counter.com/c.php?d=9&id=172607&s=4' border='0' alt='Visitors' style='vertical-align:text-bottom;'> <span style='vertical-align:text-bottom;'>Visitors</span> </a> </div>
