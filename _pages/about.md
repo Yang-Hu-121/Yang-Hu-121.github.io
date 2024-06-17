@@ -23,9 +23,9 @@ Professional Experience
 
 Education
 ======
-- **2020/09-2024/06**: Ph.D., Atmospheric Science, Tsinghua University 
+- **2020/09-2024/06**: Ph.D., Atmospheric Sciences, Tsinghua University 
 - **2012/09-2015/06**: M.S., Global Environmental Change, Beijing Normal University
-- **2008/09-2012/06**: B.S., Atmospheric Science, Nanjing University of Information Science and Technology
+- **2008/09-2012/06**: B.S., Atmospheric Sciences, Nanjing University of Information Science and Technology
 
 <h1 id="publications"> Publications</h1>
 
