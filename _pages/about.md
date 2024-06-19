@@ -45,5 +45,5 @@ Education
 This page only shows selected publications. The full publication list is available on <a href="https://www.researchgate.net/profile/Yang-Hu-128">my ResearchGate</a>
 
 <h1 id="cv"> CV</h1>
-<a>A full CV can be downloaded <a href="/files/CV-Hu.pdf">here</a></a>
+A full CV can be downloaded <a href="/files/CV-Hu.pdf">here</a>
 
