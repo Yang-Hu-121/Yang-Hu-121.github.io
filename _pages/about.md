@@ -15,17 +15,17 @@ Research Interests
 * Mei-yu Fronts; Frontal-cyclones
 * Climate Dynamics
 
-Professional Experience
-======
-- **2015/07-Present**: Associate Research Scientist, Institute of Heavy Rain, China Meteorological Administration, Wuhan
-- **2022/09-2023/09**: Senior Visiting Scholar, Earth System Modeling and Prediction Center, China Meteorological Administration
-- **2019/12-2020/07**: Visiting Scholar, Georgia Institute of Technology
-
 Education
 ======
 - **2020/09-2024/06**: Ph.D., Atmospheric Science, Tsinghua University 
 - **2012/09-2015/06**: M.S., Global Environmental Change, Beijing Normal University
 - **2008/09-2012/06**: B.S., Atmospheric Science, Nanjing University of Information Science and Technology
+
+Professional Experience
+======
+- **2015/07-Present**: Associate Research Scientist, Institute of Heavy Rain, China Meteorological Administration, Wuhan
+- **2022/09-2023/09**: Senior Visiting Scholar, Earth System Modeling and Prediction Center, China Meteorological Administration
+- **2019/12-2020/07**: Visiting Scholar, Georgia Institute of Technology
 
 <h1 id="publications"> Publications</h1>
 
